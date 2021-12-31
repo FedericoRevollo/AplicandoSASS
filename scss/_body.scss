@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: $bg_verde;
+    background-image: linear-gradient(315deg, $bg_verde 0%, $bg_celeste 74%);
+}
+
